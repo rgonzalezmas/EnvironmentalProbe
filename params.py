@@ -9,11 +9,11 @@ route_logfile = "/home/andrew/Project/logs/"
 pin = 18
 
 #token del bot de telegram
-token = '5612389620:AAFj0mZmssG5q1wxnvqu0fPd8dSuqeavsF4'
+token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 #id del grup telegram
-chat_id = '-796955238'
-#chat_id = '5585066219'
+chat_id = '-YYYYYYYYYYYYYYYYYY'
+
 
 #temperature thresholds
 max_temp = 30.0
